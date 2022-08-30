@@ -4,8 +4,6 @@
 // 12821 -> да
 // 23432 -> да
 
-using System;
-
 Console.WriteLine("Введите пятизначное число: ");
 string number = Console.ReadLine();
 
